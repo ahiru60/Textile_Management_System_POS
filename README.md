@@ -8,6 +8,7 @@ This is a Java-based Textile Management System Point of Sale (POS) application. 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [license](#Licence)
 
 ## Features
 
@@ -212,3 +213,7 @@ public class LoginController {
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+[MIT LICENSE](LICENSE)
