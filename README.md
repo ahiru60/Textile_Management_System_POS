@@ -8,7 +8,7 @@ This is a Java-based Textile Management System Point of Sale (POS) application. 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#licence)
+- [License](#license)
 
 ## Features
 
