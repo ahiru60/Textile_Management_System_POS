@@ -8,7 +8,6 @@ This is a Java-based Textile Management System Point of Sale (POS) application. 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -213,15 +212,3 @@ public class LoginController {
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-You are currently on the free plan which is significantly limited by the number of requests. To increase your quota, you can check available plans following the link [here](https://c7d59216ee8ec59bda5e51ffc17a994d.auth.portal-pluginlab.ai/pricing).
-
----
-
-Useful links: [Documentation](https://docs.askthecode.ai), [Github](https://github.com/askthecode/documentation), [Twitter](https://twitter.com/askthecode_ai)
