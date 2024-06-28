@@ -49,7 +49,7 @@ This is a Java-based Textile Management System Point of Sale (POS) application. 
 
    - Update the database connection URLs in `src/Model/DatabaseOperations.java` and `src/Model/DatabaseConnection.java` to match your MySQL setup.
 
-4. **Eun or Build the Project**
+4. **Run or Build the Project**
 
    - run Start.java in TextileManagementSystem package
 
