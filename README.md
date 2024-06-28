@@ -22,8 +22,8 @@ This is a Java-based Textile Management System Point of Sale (POS) application. 
 ### Prerequisites
 
 - Java Development Kit (JDK) 8 or higher
-- Apache Ant
-- MySQL Database
+- Eclipse IDE
+- MySQL Database (XAMMP)
 
 ### Steps
 
@@ -36,7 +36,7 @@ This is a Java-based Textile Management System Point of Sale (POS) application. 
 
 2. **Setup MySQL Database**
 
-   - Create the necessary databases and tables as per the application requirements. 
+   - Create the necessary databases and tables by executing db.sql. 
    - You can use the following command to create databases:
 
      ```sql
@@ -49,13 +49,9 @@ This is a Java-based Textile Management System Point of Sale (POS) application. 
 
    - Update the database connection URLs in `src/Model/DatabaseOperations.java` and `src/Model/DatabaseConnection.java` to match your MySQL setup.
 
-4. **Build the Project**
+4. **Eun or Build the Project**
 
-   - Use Apache Ant to build the project:
-
-     ```sh
-     ant clean build
-     ```
+   - run Start.java in TextileManagementSystem package
 
 ## Usage
 
