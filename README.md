@@ -51,7 +51,7 @@ This is a Java-based Textile Management System Point of Sale (POS) application. 
 
 4. **Run or Build the Project**
 
-   - run Start.java in TextileManagementSystem package
+   - run start.java in TextileManagementSystem package
 
 ## Usage
 
